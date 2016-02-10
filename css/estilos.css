@@ -1,0 +1,27 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #846930;
+    width: 750px;
+}
+h1 {
+    font-family: 'Merriweather', serif;
+    background-color: #846930;
+    color: #ffffff;
+    margin: 0px;
+}
+.monumentos {
+    background-color: #d3d0b5;
+}
+table {
+    vertical-align: top;
+    border-collapse: collapse;
+}
+.palencia {
+    background-color: #000000;
+}
+td {
+    vertical-align: top;
+}
+p {
+    font-size: 1em;
+}
